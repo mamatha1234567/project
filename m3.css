@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    color: maroon;
+}
+th{
+    font-size: 25px;
+    color:black;
+}
+tr{
+    font-size: 25px;
+    color:olive;
+}
+td{
+    font-size: 25px;
+    color:brown;
+}

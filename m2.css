@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    color:blanchedalmond;
+}
+pre{
+    text-align: left;
+    font-size: 20px;
+    text-justify: newspaper;
+    line-height: 45px;
+    font-style: italic;
+}

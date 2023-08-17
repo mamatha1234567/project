@@ -1,0 +1,18 @@
+legend{
+    color:blue;
+    border:2px solid brown;
+}
+fieldset{
+    border:10px ridge burlywood;
+}
+label{
+    color:crimson;
+    font-size: 20px;
+}
+input{
+       text-align: center;
+}
+textarea{
+    border: 2px double #279EFF;
+}
+</style>
